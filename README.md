@@ -1,75 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# To Do List
+> A simple to-do-list. The user can add, delete, or edit a task. They can also remove all completed tasks. This web page was built using webpack and served by a webpack dev server.
 
-# Project Name
+## Live Demo
 
-> Description the project.
+[Live]()
 
+## Built with
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML/CSS
+- JavaScript
+- Webpack
+- npm
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Clone the repo `git@github.com:AzizRAA/To-Do-List.git`
+- cd `into` the project
+- Run `git pull origin app`
+- Run `yarn install` or `npm install` to install dependencies
+- On the terminal run `npm run start` open up the live server
+- To run tests write `npm run test` on the terminal
 
 ## Authors
 
-👤 **Author1**
+👤 Azizbek Ruzmatov
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AzizRAA](https://github.com/AzizRAA)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page.](https://github.com/AzizRAA/To-Do-List/issues)
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Microverse
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/shyusu4/To-Do-List/blob/list-structure/MIT.md) licensed.

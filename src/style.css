@@ -1,0 +1,81 @@
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+i {
+  color: rgb(82, 85, 80);
+  cursor: pointer;
+}
+
+.container {
+  position: relative;
+  display: block;
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+  width: 50%;
+  border: 1px solid rgb(154, 151, 151);
+}
+
+.head {
+  display: flex;
+  border-bottom: 1px solid black;
+  padding: 20px;
+}
+
+.task-input {
+  position: relative;
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+.task-input input {
+  border: none;
+  padding: 20px;
+}
+
+.remove {
+  width: 100%;
+  padding: 20px;
+  background-color: yellowgreen;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+
+.tasks {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+
+.head i {
+  display: flex;
+  align-items: center;
+  padding-left: 79%;
+}
+
+.task-input i {
+  display: flex;
+  align-items: center;
+  padding-left: 58%;
+}
+
+.tasks i {
+  color: black;
+  cursor: pointer;
+  padding: 5px 15px;
+  border: none;
+}
+
+.tasks .line {
+  outline: none;
+  border: none;
+  text-decoration: line-through;
+  text-decoration-color: black;
+}
